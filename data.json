@@ -1,0 +1,384 @@
+{
+  "also_label": "THURSDAY 19 NOVEMBER",
+  "date_check": [
+    "Left out on purpose: Webb star merger (18 Nov 22:00 UTC), Fed minutes (18 Nov), IAEA on N. Korea (18 Nov).",
+    "Also out: An-12 crash (17 Nov), Aramco tower hit (8 Nov), EU €45bn Ukraine loan (18 Nov)."
+  ],
+  "day_label": "Thursday 19 November 2026",
+  "footer_note": "Every story here happened or was first reported on Thursday 19 November 2026. CLAIM = one side's account, not independently confirmed.",
+  "footer_sources": "Reuters, AP, Yonhap, Xinhua, ICJ, NASA, IEA, POLITICO, IMD, Sotheby's, Nasdaq",
+  "regions": "5 REGIONS",
+  "stories": [
+    {
+      "art": "summit",
+      "color": [
+        31,
+        62,
+        96
+      ],
+      "feature": true,
+      "headline": "Trump, Xi and Putin sign peace declaration — no deal on the wars",
+      "num": 1,
+      "source": "Xinhua, Reuters, USA Today",
+      "status": "CONFIRMED",
+      "summary": "First-ever trilateral ends in a 4-point declaration; no deal on Ukraine, Iran or nuclear caps.",
+      "tag": "ASIA · DIPLOMACY"
+    },
+    {
+      "art": "court",
+      "color": [
+        124,
+        58,
+        237
+      ],
+      "feature": true,
+      "headline": "World court: Myanmar committed genocide, 9–6",
+      "num": 2,
+      "source": "ICJ, Reuters",
+      "status": "CONFIRMED",
+      "summary": "First time in 80 years the court finds a state guilty of genocide; reparations ordered.",
+      "tag": "JUSTICE"
+    },
+    {
+      "art": "chart",
+      "art_label": "$83",
+      "color": [
+        22,
+        130,
+        70
+      ],
+      "feature": true,
+      "headline": "Anthropic debuts at $83 in record $81.3bn IPO",
+      "num": 3,
+      "source": "SEC, CNBC, Reuters",
+      "status": "CONFIRMED",
+      "summary": "Biggest IPO on record, ahead of SpaceX; ANT starts trading on Nasdaq at $83 a share.",
+      "tag": "MARKETS"
+    },
+    {
+      "art": "bridge",
+      "color": [
+        178,
+        34,
+        52
+      ],
+      "headline": "Kerch Bridge hit a third time",
+      "num": 4,
+      "source": "Reuters, AP",
+      "summary": "Rail traffic halted after third strike in four days.",
+      "tag": "UKRAINE"
+    },
+    {
+      "art": "ship",
+      "color": [
+        156,
+        31,
+        31
+      ],
+      "headline": "US carriers in Gulf down to two",
+      "num": 5,
+      "source": "Press TV",
+      "summary": "USS George Washington sails out; two carriers remain.",
+      "tag": "MIDDLE EAST"
+    },
+    {
+      "art": "building",
+      "color": [
+        150,
+        105,
+        8
+      ],
+      "headline": "Riyadh tower hit in missile strike",
+      "num": 6,
+      "source": "Reuters",
+      "summary": "Suspected Houthi missile hits PIF Tower (CLAIM).",
+      "tag": "MIDDLE EAST"
+    },
+    {
+      "art": "sat",
+      "color": [
+        13,
+        110,
+        100
+      ],
+      "headline": "Voyager 1 one light-day away",
+      "num": 7,
+      "source": "NASA",
+      "summary": "NASA confirms milestone; probe's data stopped 14 Nov.",
+      "tag": "SPACE"
+    },
+    {
+      "art": "game",
+      "color": [
+        234,
+        88,
+        12
+      ],
+      "headline": "GTA VI launches to a 99",
+      "num": 8,
+      "source": "AP",
+      "summary": "Metacritic 99 from 150+ critics; 17.1m copies estimated.",
+      "tag": "CULTURE"
+    },
+    {
+      "art": "storm",
+      "color": [
+        13,
+        148,
+        136
+      ],
+      "headline": "Cyclone Akvan: 80,000 evacuated",
+      "num": 9,
+      "source": "IMD",
+      "summary": "Odisha evacuates 80,000+; landfall due Friday.",
+      "tag": "WEATHER"
+    },
+    {
+      "art": "bolt",
+      "color": [
+        60,
+        60,
+        160
+      ],
+      "headline": "EU Commission hit by cyberattack",
+      "num": 10,
+      "source": "POLITICO",
+      "summary": "Staff systems disrupted 10+ days; ARTEX role unconfirmed (CLAIM).",
+      "tag": "EUROPE"
+    },
+    {
+      "art": "chart",
+      "color": [
+        22,
+        130,
+        70
+      ],
+      "headline": "IEA: Hormuz gravest energy threat",
+      "num": 11,
+      "source": "IEA",
+      "summary": "Flows could fall under 2m barrels a day by 2035, IEA says.",
+      "tag": "ENERGY"
+    },
+    {
+      "art": "flag",
+      "color": [
+        31,
+        62,
+        96
+      ],
+      "headline": "Denmark backs Greenland deal 109-0",
+      "num": 12,
+      "source": "Reuters",
+      "summary": "US role expands, incl. Golden Dome; sovereignty reaffirmed.",
+      "tag": "EUROPE"
+    },
+    {
+      "art": "pin",
+      "color": [
+        140,
+        40,
+        40
+      ],
+      "headline": "Bangladesh lockdown turns violent",
+      "num": 13,
+      "source": "Reuters",
+      "summary": "Four killed in 28 districts; Yunus home set ablaze.",
+      "tag": "ASIA"
+    },
+    {
+      "art": "globe",
+      "color": [
+        20,
+        110,
+        80
+      ],
+      "headline": "COP31 race to unblock talks",
+      "num": 14,
+      "source": "UNFCCC",
+      "summary": "Antalya talks enter final stretch; draft bridges divide.",
+      "tag": "CLIMATE"
+    },
+    {
+      "art": "star",
+      "color": [
+        150,
+        105,
+        8
+      ],
+      "headline": "Van Gogh sells for record $190.4m",
+      "num": 15,
+      "source": "AP",
+      "summary": "'Chestnut Trees in Blossom' sets artist record at Sotheby's.",
+      "tag": "CULTURE"
+    },
+    {
+      "art": "pin",
+      "color": [
+        178,
+        34,
+        52
+      ],
+      "headline": "Abu Dhabi: Ukraine-Russia-US talks end without a deal",
+      "num": 16,
+      "source": "Nexus Europa",
+      "summary": "",
+      "tag": "UKRAINE"
+    },
+    {
+      "art": "flag",
+      "color": [
+        31,
+        62,
+        96
+      ],
+      "headline": "Trump: Iran exploring chemical and biological weapons (CLAIM)",
+      "num": 17,
+      "source": "One Turn",
+      "summary": "",
+      "tag": "US"
+    },
+    {
+      "art": "flag",
+      "color": [
+        31,
+        62,
+        96
+      ],
+      "headline": "US reissues security warnings for Saudi Arabia and Bahrain",
+      "num": 18,
+      "source": "Dubai Standard",
+      "summary": "",
+      "tag": "US"
+    },
+    {
+      "art": "ship",
+      "color": [
+        156,
+        31,
+        31
+      ],
+      "headline": "Etihad, flydubai extend Gulf flight suspensions to late Nov",
+      "num": 19,
+      "source": "Dubai Standard",
+      "summary": "",
+      "tag": "GULF"
+    },
+    {
+      "art": "flag",
+      "color": [
+        31,
+        62,
+        96
+      ],
+      "headline": "S. Korea's Lee renews call for dialogue with Pyongyang",
+      "num": 20,
+      "source": "Open Chronicle",
+      "summary": "",
+      "tag": "KOREA"
+    },
+    {
+      "art": "flag",
+      "color": [
+        31,
+        62,
+        96
+      ],
+      "headline": "Japan PM Takaichi says she held talks with Putin",
+      "num": 21,
+      "source": "Just Security",
+      "summary": "",
+      "tag": "JAPAN"
+    },
+    {
+      "art": "court",
+      "color": [
+        124,
+        58,
+        237
+      ],
+      "headline": "Romanian court puts Georgescu under house arrest",
+      "num": 22,
+      "source": "Nexus Europa",
+      "summary": "",
+      "tag": "ROMANIA"
+    },
+    {
+      "art": "flag",
+      "color": [
+        31,
+        62,
+        96
+      ],
+      "headline": "Israel delays E1 plan; settler kills woman near Jericho",
+      "num": 23,
+      "source": "One Turn",
+      "summary": "",
+      "tag": "ISRAEL"
+    },
+    {
+      "art": "sat",
+      "color": [
+        13,
+        110,
+        100
+      ],
+      "headline": "NASA sets coverage for Northrop Grumman CRS-25 launch",
+      "num": 24,
+      "source": "One Turn",
+      "summary": "",
+      "tag": "SPACE"
+    },
+    {
+      "art": "chart",
+      "color": [
+        22,
+        130,
+        70
+      ],
+      "headline": "Anthropic lockup opens in stages; 315m shares eligible day one",
+      "num": 25,
+      "source": "AI Stock Wire",
+      "summary": "",
+      "tag": "MARKETS"
+    },
+    {
+      "art": "flag",
+      "color": [
+        31,
+        62,
+        96
+      ],
+      "headline": "US-China extend trade truce in Trump-Xi bilateral",
+      "num": 26,
+      "source": "Globe and Mail",
+      "summary": "",
+      "tag": "TRADE"
+    }
+  ],
+  "timeline": [
+    {
+      "headline": "Van Gogh sells for a record $190.4m",
+      "time": "Overnight"
+    },
+    {
+      "headline": "IEA warns Hormuz crisis is gravest energy threat",
+      "time": "~05:35 UTC"
+    },
+    {
+      "headline": "ICJ rules Myanmar committed genocide",
+      "time": "08:00 UTC"
+    },
+    {
+      "headline": "Denmark ratifies Greenland deal, 109-0",
+      "time": "~09:00 UTC"
+    },
+    {
+      "headline": "Trump, Xi, Putin publish peace declaration",
+      "time": "~10:55 UTC"
+    },
+    {
+      "headline": "Anthropic shares begin trading on Nasdaq",
+      "time": "Day"
+    }
+  ]
+}
