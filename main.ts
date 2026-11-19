@@ -1,4 +1,7 @@
 // news-image-20261119 entrypoint.
+// Rebuilt 19 Nov as a dense newspaper front page: 26 verified stories from one day
+// (masthead + UTC timeline + 3 illustrated features + numbered grid + ALSO ON list
+// + DATE CHECK box + a source label per story), drawn by draw_dense.py from data.json.
 // Copies the pre-rendered entry.png into $MAKEFUN_OUTPUT_DIR
 // (default /output). Node standard library only, no network.
 // Deterministic: the output bytes are always identical to entry.png.
